@@ -23,10 +23,10 @@ const Hero = () => {
             <Blockquote size="2">
               This portal is dedicated to providing you with the latest updates
               and announcements, ensuring you stay connected with your peers,
-              faculty, and the wider community. Whether it's an upcoming
-              seminar, a campus tour, or a student organization meeting, we have
-              you covered. Join us in making your college journey more exciting
-              and rewarding.
+              faculty, and the wider community. Whether its an upcoming seminar,
+              a campus tour, or a student organization meeting, we have you
+              covered. Join us in making your college journey more exciting and
+              rewarding.
             </Blockquote>
           </div>
           <Button color="amber" mt="3" variant="surface" className="w-32">
